@@ -15,3 +15,4 @@ programmers. Users should proceed to the [project website](http://tgvaughan.gith
 This package is distributed under version 3 of the GNU General Public License.
 See the file COPYING, included in this archive, for more details.
 This project is a work in progress
+This project is a work in progress.
